@@ -71,7 +71,7 @@ const Home = () => {
 				let type = '';
 				if (getField === 'id' || getField.includes('_id')) type = 'Int @id';
 				else type = selectDatatype(fieldLine.toLowerCase());
-				graphqlSchema += `${getField}: ${type}${notNull ? '' : '?'}
+				graphqlSchema += `${getField} ${type}${notNull ? '' : '?'}
         `;
 			}
 
