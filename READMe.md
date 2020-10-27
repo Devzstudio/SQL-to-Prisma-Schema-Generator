@@ -4,7 +4,7 @@
 
 [![SQL to Prisma Schema Generator](https://github.com/Devzstudio/SQL-to-Prisma-Schema-Generator/blob/main/preview.png?raw=true 'SQL to Prisma Schema Generator')]()
 
-Check live on https://sql-to-prisma.now.sh/
+Check live on https://sql-to-prisma.vercel.app/
 
  <p align="center">
    Made with ❤️ by <a href="https://twitter.com/jp1016v1"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jp1016v1?style=social"></a>
